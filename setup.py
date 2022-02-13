@@ -5,7 +5,7 @@ with open('README.md', 'r', encoding='utf-8') as fh:
 
 setuptools.setup(
     name='dinamopy',
-    version='0.0.1',
+    version='0.1.0',
     author='Rasim Andiran',
     author_email='rasimandiran@gmail.com',
     description='DynamoDB wrapper',
